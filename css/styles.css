@@ -140,7 +140,7 @@ footer {
 	}
 	/*	form */
 	.form-container {
-		grid-template-columns: 1fr 4fr 1fr;
+		grid-template-columns: 1fr 48ch 1fr;
 	}
 	.form-container h1,
 	.form-container form {
